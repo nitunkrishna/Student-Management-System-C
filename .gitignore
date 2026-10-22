@@ -1,0 +1,5 @@
+*.dat
+*.o
+*.exe
+student_management
+.DS_Store
