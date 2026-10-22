@@ -69,7 +69,7 @@ gcc --version
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Student-Management-System.git
+git clone https://github.com/nitunkrishna/Student-Management-System.git
 ```
 
 **2. Navigate to the project directory**
